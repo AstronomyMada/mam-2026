@@ -1,3 +1,3 @@
-Template for the 2023 [Inaugural Malagasy National Astronomy Meeting](https://astronomymadagascar.github.io/) : Astronomy in Madagascar – the past, present, future. Original template by [Mike Pierce](https://mikepierce.github.io).
+Template for the 2026 [Second Malagasy Astronomy Meeting](https://astronomymada.github.io/mam-2026/) - Astronomy in Madagascar: From Vision to Action. Original template by [Mike Pierce](https://mikepierce.github.io).
 
-![Screenshot of the Website](Screenshot.png)
+![Screenshot of the Website](Screenshot2.png)
